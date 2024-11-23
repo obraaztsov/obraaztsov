@@ -1,6 +1,6 @@
 <div id="badges" align="center">
   <a href= "https://t.me/obraztssov">
-    <img src = "https://img.shields.io/badge/VK-blue?style=for-the-bagde&logo=Telegram&logoColor=white" alt="telega"/>
+    <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-bagde&logo=Telegram&logoColor=white" alt="telega"/>
   </a>
   
   <a href= "https://mail.google.com/mail/u/2/#inbox">
