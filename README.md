@@ -3,7 +3,7 @@
     <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-bagde&logo=Telegram&logoColor=white" alt="telega"/>
   </a>
   
-  <a href= "https://mail.google.com/mail/u/2/#inbox">
+  <a href= "https://mail.google.com/mail/u/0/#inbox">
     <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail"/>
   </a>
 </div>
